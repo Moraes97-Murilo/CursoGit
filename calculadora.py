@@ -1,5 +1,6 @@
 git remote add origin https://github.com/Moraes97-Murilo/CursoGit.gii
 
+#programa teste para vincular PC-Cloud usando git push e git pull   
 op = input("Você gostaria de somar, subtrair, multiplicar ou dividir? ")
 a = float (input ("Digite o primeiro valor: ")) 
 b = float (input ("Digite o segundo valor: ")) 
