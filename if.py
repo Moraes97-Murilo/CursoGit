@@ -8,3 +8,4 @@ data.describe()
 
 data.loc[data['tempo_real_ate_restaurante_seg']<0]
 
+#Continuando com os dados no power bi
